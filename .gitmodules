@@ -1,0 +1,3 @@
+[submodule "BOOT/themes/rEFInd-minimal-black"]
+	path = BOOT/themes/rEFInd-minimal-black
+	url = git@github.com:andersfischernielsen/rEFInd-minimal-black.git
