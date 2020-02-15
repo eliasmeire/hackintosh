@@ -444,7 +444,7 @@
                 <key>ConsoleBehaviourUi</key>
                 <string>Text</string>
                 <key>ConsoleMode</key>
-                <string>Max</string>
+                <string></string>
             </dict>
             <key>Debug</key>
             <dict>
