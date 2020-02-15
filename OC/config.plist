@@ -440,9 +440,9 @@
                 <key>Resolution</key>
                 <string>1920x1080</string>
                 <key>ConsoleBehaviourOs</key>
-                <string>Graphics</string>
+                <string>ForceGraphics</string>
                 <key>ConsoleBehaviourUi</key>
-                <string>Text</string>
+                <string>ForceText</string>
                 <key>ConsoleMode</key>
                 <string></string>
             </dict>
