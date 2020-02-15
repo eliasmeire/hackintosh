@@ -437,6 +437,14 @@
                 <integer>0</integer>
                 <key>Timeout</key>
                 <integer>0</integer>
+                <key>Resolution</key>
+                <string>1920x1080</string>
+                <key>ConsoleBehaviourOs</key>
+                <string>Graphics</string>
+                <key>ConsoleBehaviourUi</key>
+                <string>Text</string>
+                <key>ConsoleMode</key>
+                <string>Max</string>
             </dict>
             <key>Debug</key>
             <dict>
@@ -639,7 +647,7 @@
                 <key>ConsoleControl</key>
                 <true />
                 <key>IgnoreTextInGraphics</key>
-                <false />
+                <true />
                 <key>AppleBootPolicy</key>
                 <false />
                 <key>AppleEvent</key>
